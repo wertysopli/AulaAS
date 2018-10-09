@@ -1,0 +1,35 @@
+git - versionamento de código
+github - "Rede Social"
+time line = branch = master
+commit changes = Descrição do upload
+
+Dentro do git
+PWD = indica o diretorio do arquivo
+clear = limpa a tela
+ls = mostra o que contem dentro da pasta
+ls -a = mostra os arquivos ocultos 
+ls -l = exibe as informações mais detalhadas da pasta         
+ls -h = (h de human) mostra as informações mais facil de entender
+cd .. = volta uma pasta 
+cd "nomedapasta" = abre/muda de pasta
+ls -lah = junção dos ls (informação ainda mais detalhada)
+d = nada / rwx / r = read(permissão de leitura) / write = escrita (editavel) /
+x= execute
+. = pasta atual
+.. = pasta anterior
+
+
+Quem pode acessar?
+Você Grupo  Outros
+rwx  rwx    rwx
+               
+para logar: git config --global user.email nomedeusuario@email.com
+	    git config --global user.name "usuário"
+
+git clone "link" = para baxar/clonar o arquivo/repositorio        
+
+
+--Toda vez, criar uma pasta "Meus Repositorios", logar na conta, baixar o arquivo e abrir ele com o "cd"
+
+sout + tab = System.out.println("");
+                                          	
