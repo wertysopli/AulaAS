@@ -31,5 +31,10 @@ git clone "link" = para baxar/clonar o arquivo/repositorio
 
 --Toda vez, criar uma pasta "Meus Repositorios", logar na conta, baixar o arquivo e abrir ele com o "cd"
 
+Subir para a nuvem = 
+1º = git add . / 
+2º = git commit -m "descrever oq fez" / 
+3º = git push
+
 sout + tab = System.out.println("");
                                           	
